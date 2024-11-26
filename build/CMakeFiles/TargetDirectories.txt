@@ -1,0 +1,3 @@
+/home/keyzarrasya/Documents/Programming/cpp/easyot/build/CMakeFiles/main.dir
+/home/keyzarrasya/Documents/Programming/cpp/easyot/build/CMakeFiles/edit_cache.dir
+/home/keyzarrasya/Documents/Programming/cpp/easyot/build/CMakeFiles/rebuild_cache.dir
